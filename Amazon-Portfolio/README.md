@@ -2,10 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/7aac8297-2b6f-43a2-86a0-d9e38587fb58)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/amazon-clone)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/amazon-clone)
-![GitHub license](https://img.shields.io/github/license/yourusername/amazon-clone)
-
 A responsive front-end clone of Amazon.com with modern UI/UX features, built with pure HTML, CSS, and JavaScript.
 
 ## 🌟 Features
@@ -24,7 +20,4 @@ A responsive front-end clone of Amazon.com with modern UI/UX features, built wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat&logo=font-awesome&logoColor=white)
 
-## 🚀 Live Demo
-
-[![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=for-the-badge)](https://yourusername.github.io/amazon-clone/)
 
